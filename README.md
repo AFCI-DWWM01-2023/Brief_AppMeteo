@@ -29,3 +29,6 @@ Ce projet va vous entraîner à utiliser une API, manipuler des données et adap
 <br>
 
 ### C. Ajoutez du style à l'interface afin de terminer le projet.
+
+Résultat :
+![Image initiale](profile/img/2-1.jpg)
