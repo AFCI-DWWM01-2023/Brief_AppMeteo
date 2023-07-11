@@ -14,6 +14,7 @@ Ce projet va vous entraîner à utiliser une API, manipuler des données et adap
 > Puis codez les fonctionnalités JavaScript.
 > 
 <br>
+
 ### B. Fonctionnalités JavaScript à coder pour ce projet
 
 1. Créez un compte gratuit sur IQair : https://www.iqair.com/
