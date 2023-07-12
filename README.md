@@ -17,7 +17,7 @@ Ce projet va vous entraîner à utiliser une API, manipuler des données et adap
 
 ### B. Fonctionnalités JavaScript à coder pour ce projet
 
-1. Créez un compte gratuit sur IQair : https://www.iqair.com/
+1. Créez un compte gratuit sur IQair : https://www.iqair.com/fr/
 2. Connectez et cliquez sur l'onglet "API" dans la navigation.
 3. Créez une clé d'API, elle vous servira à effectuer des requêtes HTTP valides.
 4. Rendez-vous dans la doc au niveau de la requête "Get nearest city data (IP geolocation)"
